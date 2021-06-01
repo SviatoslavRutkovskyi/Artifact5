@@ -1,5 +1,5 @@
 // JavaScript source code
-var myImages = ["images/resume.jpg", "images/chessboard.jpg", "images/rhombus.png", "images/form_verification.png", "images/slideshow.png"];
+var myImages = ["images/resume.jpg", "images/chessboard.jpg", "images/rhombus.jpg", "images/form_verification.jpg", "images/slideshow.jpg"];
 
 
 var captionImages = ["Artifact 1: Resume", "Artifact 2: Chessboard", "Artifact 3: Rhombus", "Artifact 4: Form Verification", "Artifact 5: Resume"];
